@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  background-color: darkgray;
+  height: 100%;
+}
+
+.header {
+  height: 50px;
+  background-color: rgb(44, 44, 49);
+  padding: 10px;
+  color: white;
+  text-align: left;
+  font-size: 30px;
+}
+
+.calculator {
+  padding: 50px;
+}
+
+.compound {
+  background-color: gray;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.outerCompound {
+  padding: 20px;
+}
